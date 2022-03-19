@@ -1,11 +1,4 @@
 # Face-Recognition-Model
-### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [Technologies](#references)
-
----
 
 ## Description
 
@@ -14,7 +7,7 @@ I trained and tested the model based on positive and negative samples provided b
 
 ---
 
-#### Technologies
+## Technologies
 
 - Python
 - Pytorch
